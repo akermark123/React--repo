@@ -1,4 +1,4 @@
 # React--repo
 React tutorial with github
 
-By Alexander Åkermark
+By Alexander Åkermark who loves ☕
